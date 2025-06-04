@@ -1,0 +1,25 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+
+# Gradio config
+.gradio/
+
+# Environment variables
+.env
+
+# Logs and cache
+*.log
+*.tmp
+*.bak
+.cache/
+
+# VS Code or other IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

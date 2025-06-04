@@ -1,0 +1,6 @@
+gradio>=3.50.2
+huggingface_hub>=0.20
+pdfplumber>=0.10
+python-multipart
+python-dotenv
+pyttsx3
